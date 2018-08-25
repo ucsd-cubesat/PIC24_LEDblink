@@ -1,5 +1,5 @@
 /* 
- * File:   HelloWorld1.c
+ * File:   LEDblink_NoPumpkin.c
  * Author: Annalisa Vilaysing
  *
  * Created on August 20, 2018, 11:56 PM
